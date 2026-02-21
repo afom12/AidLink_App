@@ -1,5 +1,3 @@
-
-
 import 'user_profile.dart';
 
 class AuthSession {
