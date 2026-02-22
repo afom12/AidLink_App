@@ -1,6 +1,4 @@
-
 import 'user_profile.dart';
-
 class AuthSession {
   AuthSession({
     required this.accessToken,
